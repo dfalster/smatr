@@ -1,0 +1,718 @@
+order	species	W0	Wa
+mammals	etruscus	-2.068429933	-2.575868892
+mammals	fuscomurina	-1.880998748	-2.198229985
+mammals	fulvescens	-1.874334252	-1.801150818
+mammals	minutoides	-1.863449108	-2.037208093
+mammals	cinereus	-1.842464617	-2.268052907
+mammals	taylori	-1.832340744	-2.003894272
+mammals	crawfordi	-1.830343984	-2.279998892
+mammals	parva	-1.801444557	-2.105641345
+mammals	suaveolens	-1.784985112	-2.011286697
+mammals	fumeus	-1.784985112	-1.984190937
+mammals	triton	-1.734231574	-1.802877637
+mammals	longimembris	-1.710918581	-1.943276111
+mammals	montanus	-1.654252725	-1.943276111
+mammals	vagrans	-1.646356244	-2.150755913
+mammals	lagurus	-1.627221234	-1.589767502
+mammals	polionotus	-1.556016621	-1.751789203
+mammals	russula	-1.500414561	-1.832099954
+mammals	hudsonius	-1.494858479	-1.638279928
+mammals	formosus	-1.483955116	-1.607790606
+mammals	daltoni	-1.483955116	-1.372176575
+mammals	pumilio	-1.460379578	-1.189714134
+mammals	araneus	-1.457837359	-1.944872784
+mammals	coronatus	-1.452797134	-1.915496481
+mammals	flavicollis	-1.447814734	-1.429252611
+mammals	arvalis	-1.438826192	-1.459564525
+mammals	insignis	-1.438018202	-1.569082903
+mammals	musculus	-1.435603213	-1.586250928
+mammals	maniculatus	-1.435603213	-1.586250928
+mammals	agrestis	-1.435603213	-1.235627817
+mammals	montanus	-1.417521374	-1.204001425
+mammals	torridus	-1.415984047	-1.618974773
+mammals	glareolus	-1.413688211	-1.579302068
+mammals	subterraneus	-1.41216437	-1.607790606
+mammals	leucopus	-1.405372484	-1.536657813
+mammals	pinetorum	-1.403131923	-1.492151892
+mammals	hirta	-1.387045103	-1.762167104
+mammals	fodiens	-1.387045103	-1.742154721
+mammals	wilsoni	-1.387045103	-1.596887243
+mammals	oregoni	-1.387045103	-1.586250928
+mammals	gliroides	-1.387045103	-1.492151892
+mammals	ungava	-1.387045103	-1.467485009
+mammals	rufocanus	-1.387045103	-1.429252611
+mammals	hooperi	-1.384183185	-1.34121612
+mammals	truei	-1.366026753	-1.467485009
+mammals	tullbergi	-1.366026753	-1.329424595
+mammals	gapperi	-1.349915063	-1.586250928
+mammals	nuttalli	-1.349915063	-1.555820972
+mammals	apodemoides	-1.345326249	-1.596887243
+mammals	californicus	-1.345326249	-1.492151892
+mammals	glaber	-1.345326249	-1.353336752
+mammals	pyramidum	-1.345326249	-1.329424595
+mammals	floridanus	-1.326191238	-1.403210809
+mammals	alexis	-1.290278682	-1.353336752
+mammals	namaquensis	-1.290278682	-1.220280125
+mammals	australis	-1.290278682	-1.085280063
+mammals	cahirinus	-1.287415821	-1.24192205
+mammals	tytonis	-1.272825745	-1.518304611
+mammals	yucatanicus	-1.26952729	-1.478275489
+mammals	leucogaster	-1.266253698	-1.295857247
+mammals	natalensis	-1.264084933	-1.245103709
+mammals	paeba	-1.256578421	-1.444144166
+mammals	pennsylvanicus	-1.253400643	-1.258068686
+mammals	sikapusi	-1.253400643	-1.249920333
+mammals	gossypinus	-1.250770141	-1.436634565
+mammals	viaria	-1.250245947	-1.666835388
+mammals	crinitus	-1.245038517	-1.684915669
+mammals	canicaudus	-1.241430115	-1.34925884
+mammals	argurus	-1.240917067	-1.198229985
+mammals	callosus	-1.233293212	-1.285220932
+mammals	hylophaga	-1.225800884	-1.73667302
+mammals	sungorus	-1.216977442	-1.527384269
+mammals	unguiculatus	-1.212632047	-1.171816742
+mammals	striatus	-1.210714629	-1.271432648
+mammals	strelzowi	-1.210714629	-1.198229985
+mammals	guentheri	-1.210714629	-1.185518019
+mammals	townsendii	-1.207854282	-1.158534529
+mammals	intermedius	-1.203128507	-1.378642618
+mammals	flavopunctatus	-1.201720744	-1.15722838
+mammals	schisticolor	-1.192450499	-1.500695666
+mammals	oeconomus	-1.185625406	-0.927624165
+mammals	megalops	-1.18292512	-1.046204158
+mammals	tridecemlineatus	-1.18292512	-0.662639274
+mammals	ochrogaster	-1.164479104	-1.295857247
+mammals	montebelli	-1.143494613	-1.297655571
+mammals	merriami	-1.143494613	-1.295857247
+mammals	cervinipes	-1.143494613	-0.924560347
+mammals	californicus	-1.1394167	-1.169127603
+mammals	californicus	-1.115722034	-1.274838897
+mammals	murinus	-1.108102637	-1.235627817
+mammals	amoenus	-1.108102637	-1.214289762
+mammals	leucogaster	-1.108102637	-1.086386546
+mammals	panamintinus	-1.104342489	-1.163798769
+mammals	nitratoides	-1.086015107	-1.347234153
+mammals	cooperi	-1.086015107	-1.329424595
+mammals	jacksoni	-1.086015107	-1.295857247
+mammals	jaculus	-1.086015107	-1.15722838
+mammals	setzeri	-1.082440647	-1.310456756
+mammals	hurrianae	-1.075378793	-1.052306757
+mammals	flavescens	-1.071890465	-1.555820972
+mammals	longicaudus	-1.064996757	-1.536657813
+mammals	microps	-1.064996757	-1.155926146
+mammals	fuscipes	-1.058210768	-0.773876733
+mammals	niloticus	-1.051529182	-1.088608006
+mammals	brevicauda	-1.044948837	-1.134365497
+mammals	palustris	-1.038466709	-1.220280125
+mammals	erythroleucus	-1.035261569	-1.319837131
+mammals	pictus	-1.035261569	-1.198229985
+mammals	bursarius	-1.035261569	-0.650288836
+mammals	palmeri	-1.032079911	-1.122165411
+mammals	exulans	-1.028921391	-1.052306757
+mammals	groenlandicus	-1.025785678	-1.15722838
+mammals	auratus	-1.025785678	-0.876898888
+mammals	bengalensis	-1.025785678	-0.675351239
+mammals	hispidus	-1.01346444	-0.630454591
+mammals	gracilicaudatus	-1.007432476	-1.098747638
+mammals	lutreolus	-0.989823531	-0.837063374
+mammals	shawi	-0.989823531	-0.630454591
+mammals	torquatus	-0.981279757	-0.968709494
+mammals	ocularis	-0.97846878	-1.060579283
+mammals	hottentotus	-0.970143391	-0.775498245
+mammals	erminea	-0.961974602	-0.854896151
+mammals	sibiricus	-0.956612873	-1.125789587
+mammals	interpres	-0.94869239	-0.855546779
+mammals	sloggetti	-0.94869239	-0.815161532
+mammals	stephensi	-0.946084007	-1.088608006
+mammals	heermanni	-0.938351556	-1.085280063
+mammals	rufescens	-0.925762429	-1.134365497
+mammals	cristata	-0.90872909	-1.154627806
+mammals	hypoxanthus	-0.90872909	-0.96618207
+mammals	incomtus	-0.90872909	-0.872137585
+mammals	valida	-0.90872909	-0.844616511
+mammals	irroratus	-0.90872909	-0.731259647
+mammals	mohavensis	-0.90872909	-0.618974773
+mammals	spectabilis	-0.906349388	-0.819934047
+mammals	burtoni	-0.901628749	-1.105641345
+mammals	chrysophilus	-0.894642629	-1.002979004
+mammals	richardsoni	-0.894642629	-0.87146164
+mammals	washingtoni	-0.867770482	-0.589767502
+mammals	sabrinus	-0.857046617	-0.776582626
+mammals	townsendii	-0.848654192	-0.973808901
+mammals	frenata	-0.848654192	-0.720154236
+mammals	breweri	-0.846581183	-1.19679903
+mammals	lepida	-0.846581183	-0.800003408
+mammals	stephensi	-0.842464617	-0.745679449
+mammals	ochrognathus	-0.836362018	-0.842084175
+mammals	micropus	-0.836362018	-0.524336576
+mammals	nivalis	-0.830343984	-1.201106118
+mammals	capensis	-0.830343984	-0.638279928
+mammals	deserti	-0.807072642	-0.848442919
+mammals	albicaudatus	-0.795888475	-0.872814584
+mammals	striatus	-0.790402577	-0.916994049
+mammals	rattus	-0.788589236	-0.506486345
+mammals	sumichrasti	-0.784985112	-1.170470091
+mammals	obesus	-0.784985112	-0.650288836
+mammals	nudicaudus	-0.784985112	-0.451785909
+mammals	nelsoni	-0.774348797	-0.708861002
+mammals	indica	-0.774348797	-0.161158673
+mammals	terrestris	-0.763966761	-0.818735993
+mammals	townsendii	-0.762260297	-0.707469775
+mammals	europaea	-0.742289216	-0.773337571
+mammals	volans	-0.737436714	-1.081977427
+mammals	brantsii	-0.734231574	-1.02261676
+mammals	libycus	-0.734231574	-1.011286697
+mammals	spilosoma	-0.734231574	-0.820534316
+mammals	harrisii	-0.734231574	-0.797717642
+mammals	pinetis	-0.734231574	-0.744165347
+mammals	kaiseri	-0.70940799	-0.600491367
+mammals	telfairi	-0.687357849	-0.642246115
+mammals	albinucha	-0.687357849	-0.486548015
+mammals	floridana	-0.684500638	-0.329424595
+mammals	hindei	-0.614917451	-0.890797497
+mammals	leucurus	-0.608893853	-0.908820602
+mammals	beldingi	-0.605319392	-0.454363331
+mammals	norvegicus	-0.582213173	-0.451785909
+mammals	townsendii	-0.574407927	-0.822943723
+mammals	castanops	-0.549707147	-0.472846737
+mammals	pygmaea	-0.541434621	-0.830253199
+mammals	degus	-0.534323208	-0.527384269
+mammals	rufescens	-0.528319041	-0.500695666
+mammals	lateralis	-0.516554137	-0.700579713
+mammals	tereticaudus	-0.511744625	-0.684915669
+mammals	albigula	-0.493939337	-0.600491367
+mammals	elegans	-0.483955116	-0.29406634
+mammals	princeps	-0.477718986	-0.751276761
+mammals	rhinogradoides	-0.468962752	-0.973808901
+mammals	hudsonicus	-0.463792518	-0.607790606
+mammals	bulbivorus	-0.452797134	-0.34121612
+mammals	beecheyi	-0.438018202	-0.112646247
+mammals	richardsonii	-0.419837617	-0.363702268
+mammals	moholi	-0.409132633	-0.642246115
+mammals	jacchus	-0.400162377	-0.407831007
+mammals	columbianus	-0.392826147	-0.229423505
+mammals	glis	-0.387045103	-0.696497541
+mammals	variegatus	-0.387045103	-0.076528241
+mammals	armatus	-0.377109829	-0.410159669
+mammals	oedipus	-0.376408788	-0.29406634
+mammals	diazi	-0.375708878	-0.204001425
+mammals	everetti	-0.3680834	-0.353336752
+mammals	cricetus	-0.365343362	-0.192534238
+mammals	cinerea	-0.357225472	-0.372176575
+mammals	undulatus	-0.345978832	0.026191099
+mammals	vison	-0.345326249	0.055926286
+mammals	saturatus	-0.332476362	-0.459564525
+mammals	senegalensis	-0.319995777	-0.662639274
+mammals	floridanus	-0.313281322	0.205688607
+mammals	musteloides	-0.251294968	-0.370042446
+mammals	tardigradus	-0.244004482	-0.524336576
+mammals	ludovicianus	-0.239381552	0.03799789
+mammals	chrysogaster	-0.210714629	-0.115006549
+mammals	zibethicus	-0.20501265	0.157284124
+mammals	calabarensis	-0.18292512	-0.400919012
+mammals	putorius	-0.18292512	-0.189714134
+mammals	aquaticus	-0.18292512	0.427537356
+mammals	carolinensis	-0.169669937	-0.165124861
+mammals	rosalia	-0.169669937	-0.150755913
+mammals	aperea	-0.155963253	-0.365805393
+mammals	striatus	-0.155963253	-0.014091622
+mammals	nigricollis	-0.143494613	-0.283473266
+mammals	chrysopygus	-0.13137398	-0.165124861
+mammals	elegans	-0.123477499	0.005172748
+mammals	europaeus	-0.078895366	-0.011286697
+mammals	suricatta	-0.058210768	-0.00849977
+mammals	cuniculus	-0.058210768	0.29483908
+mammals	goeldii	-0.054857125	-0.150755913
+mammals	astutus	-0.044948837	0.091179398
+mammals	ecaudatus	-0.035261569	0.048681169
+mammals	porcellus	-0.028921391	-0.036219937
+mammals	monax	0.007290781	0.634194607
+mammals	libyca	0.010176469	-0.198229985
+mammals	ingrahami	0.010176469	-0.078699718
+mammals	javanicus	0.05130761	0.005172748
+mammals	acouchy	0.157535383	-0.00849977
+mammals	aberti	0.163637982	-0.051283683
+mammals	trivirgatus	0.169656016	0.022757923
+mammals	americanus	0.171643637	0.275052178
+mammals	europaeus	0.204111525	0.666680361
+mammals	rufa	0.205947868	-0.060579283
+mammals	tetradactyla	0.215014888	0.540435475
+mammals	sciureus	0.225651203	-0.113824795
+mammals	americana	0.229139531	-0.115006549
+mammals	sexcinctus	0.236033239	0.764372183
+mammals	gouldii	0.257710784	0.056723889
+mammals	talapoin	0.265768426	0.140528846
+mammals	flaviventris	0.29359752	0.568300653
+mammals	timidus	0.305415786	0.582778477
+mammals	mephitis	0.306870711	0.361720072
+mammals	crassicaudatus	0.312642151	0.160433481
+mammals	capensis	0.312642151	0.65878388
+mammals	cinereoargenteus	0.32812917	0.726867567
+mammals	coucang	0.329510076	0.087483253
+mammals	zibellina	0.391106147	0.129887101
+mammals	bengalensis	0.40523079	0.720001108
+mammals	paludinosus	0.413262885	0.621357382
+mammals	silvestris	0.413262885	0.720001108
+mammals	maximus	0.427796618	0.614793613
+mammals	tricuspis	0.441859685	0.272150422
+mammals	martes	0.445041344	0.216302119
+mammals	nasua	0.476621792	0.778209284
+mammals	townsendii	0.480534381	0.58514521
+mammals	wiedii	0.507893132	0.666680361
+mammals	ichneumon	0.516044884	0.568300653
+mammals	procyonoides	0.529300068	0.728567352
+mammals	dorsatum	0.584782581	1.056723889
+mammals	capensis	0.58783563	0.475663424
+mammals	temminckii	0.590111415	0.960808824
+mammals	fascicularis	0.608626345	0.640473673
+mammals	apella	0.612954897	0.505018818
+mammals	aethiops	0.628467063	0.674435826
+mammals	lar	0.642103803	0.806048813
+mammals	palliata	0.654673751	0.854353493
+mammals	vetulus	0.654673751	0.951771156
+mammals	fulgens	0.670048613	0.738628678
+mammals	rufus	0.688532019	1.03633073
+mammals	lotor	0.692136143	0.745209023
+mammals	vulpes	0.70510112	0.855621507
+mammals	polykomos	0.706260786	1.032134616
+mammals	californicus	0.727174255	0.466455422
+mammals	capensis	0.727174255	0.646663248
+mammals	capucinus	0.743421579	0.516227039
+mammals	nemestrina	0.764180344	0.889701296
+mammals	mulatta	0.775682194	0.836201231
+mammals	canadensis	0.792145718	0.896668737
+mammals	latrans	0.794042203	1.174025599
+mammals	coypus	0.798747498	0.956815283
+mammals	madagascariensis	0.799215236	0.518984474
+mammals	guereza	0.81707488	1.089704713
+mammals	neglectus	0.827711194	0.772113822
+mammals	barbara	0.844036747	0.754896291
+mammals	fuscata	0.8605833	1.049492176
+mammals	kirkii	0.864623278	0.790149403
+mammals	lynx	0.884277966	1.357753885
+mammals	pardus	0.899385384	1.728567352
+mammals	jubatus	0.899385384	1.87055574
+mammals	patas	0.90308153	0.871777385
+mammals	civetta	0.90308153	1.237832896
+mammals	radiata	0.913984893	0.674435826
+mammals	geoffroyi	0.913984893	0.898966597
+mammals	larvatus	0.913984893	1.077723416
+mammals	othus	0.924621207	0.756490034
+mammals	entellus	0.935003243	1.153474499
+mammals	binturong	0.935003243	1.190145595
+mammals	galeritus	0.948470818	0.836201231
+mammals	albigena	0.948470818	0.929921796
+mammals	chaus	0.958304321	1.102082761
+mammals	arctoides	0.974214322	0.965749656
+mammals	alpinus	0.983487867	1.207944687
+mammals	thibetana	0.992567524	1.103516078
+mammals	sylvanus	0.995552378	1.091179398
+mammals	guentheri	1.064195633	0.759660081
+mammals	variegata	1.074237571	0.638390722
+mammals	alleni	1.09127091	0.676353244
+mammals	taxus	1.09127091	0.883808472
+mammals	sphinx	1.09127091	1.178262652
+mammals	capensis	1.13869556	1.174025599
+mammals	pardalis	1.145066743	1.046239019
+mammals	concolor	1.157535383	1.782725385
+mammals	paniscus	1.191035005	0.99150023
+mammals	gelada	1.204111525	1.190145595
+mammals	hamadryas	1.209597423	1.249235077
+mammals	fiber	1.236033239	1.381025227
+mammals	onca	1.315499362	2.011408879
+mammals	tajacu	1.330886605	1.384785376
+mammals	lupus	1.333626642	1.644609842
+mammals	nebulosa	1.347073366	1.392209394
+mammals	gigantea	1.391106147	1.621357382
+mammals	afer	1.408691322	1.880234012
+mammals	dorcas	1.458565379	1.333164612
+mammals	uncia	1.488255375	1.761236469
+mammals	hydrochaeris	1.531903239	1.84277162
+mammals	leo	1.541316887	2.246669833
+mammals	paniscus	1.542162641	1.616992577
+mammals	troglodytes	1.542162641	1.678262234
+mammals	capreolus	1.552185266	1.437598682
+mammals	scrofa	1.553833445	2.105657222
+mammals	americana	1.561981798	1.759660081
+mammals	pygmaeus	1.654673751	1.672509905
+mammals	hispida	1.668156259	2.03716511
+mammals	gorilla	1.713154494	2.107787861
+mammals	lutris	1.715428292	1.440901318
+mammals	ursinus	1.724406275	1.793083836
+mammals	subgutturosa	1.743421579	1.507848108
+mammals	americanus	1.760618448	2.145753505
+mammals	tatarica	1.774199116	1.683939367
+mammals	crocuta	1.774199116	1.901252362
+mammals	galapagoensis	1.789285371	1.532514991
+mammals	melanoleuca	1.789285371	2.14963116
+mammals	gazella	1.811657414	1.709493471
+mammals	melampus	1.814374594	1.720001108
+mammals	aries	1.856505387	1.801770015
+mammals	hemionus	1.90308153	1.847957288
+mammals	tigris	1.90308153	2.180065953
+mammals	silvicultor	1.924621207	1.897819187
+mammals	largha	1.941789232	2.005172748
+mammals	dama	1.967920089	1.838841327
+mammals	vitulina	1.992567524	2.107787861
+mammals	phocaenoides	2.001461238	1.614793613
+mammals	californianus	2.010176469	2.029597348
+mammals	arctos	2.027099175	2.410232498
+mammals	pusillus	2.029856609	1.992425245
+mammals	tarandus	2.043387127	2.156017958
+mammals	brunnea	2.05130761	1.88142877
+mammals	canadensis	2.069245625	1.935224603
+mammals	nippon	2.069245625	2.086740234
+mammals	pygargus	2.07174877	1.698725288
+mammals	fasciata	2.09127091	2.018427932
+mammals	maritimus	2.105357371	2.55837349
+mammals	kob	2.112232889	1.87055574
+mammals	virginianus	2.13869556	1.876629888
+mammals	groenlandica	2.149262857	2.211864844
+mammals	delphis	2.215014888	1.984969362
+mammals	grypus	2.24784003	2.37340583
+mammals	brevirostris	2.265768426	2.381025227
+mammals	cristata	2.265768426	2.427537356
+mammals	elaphus	2.284517862	2.182458766
+mammals	cinerea	2.388706724	2.003374425
+mammals	schauinslandi	2.418910487	2.341516686
+mammals	sibirica	2.438654545	2.014054336
+mammals	inunguis	2.441859685	2.782725385
+mammals	barbatus	2.474652199	2.55837349
+mammals	johnstoni	2.499585439	2.560876635
+mammals	terrestris	2.548870025	2.403112757
+mammals	alces	2.586311789	2.646663248
+mammals	jubatus	2.640759237	2.563365435
+mammals	weddellii	2.684289052	2.726867567
+mammals	carcinophagus	2.692136143	2.478689879
+mammals	leonina	2.72772574	2.865634503
+mammals	angustirostris	2.752885998	2.957817116
+mammals	bison	2.810292423	2.798893882
+mammals	caffer	2.831199522	2.804627226
+mammals	burchellii	2.856505387	2.510659085
+mammals	rosmarus	2.913984893	2.914719937
+mammals	amphibius	2.989562014	3.201712044
+mammals	dromedarius	3.015890953	2.740283135
+mammals	africana	3.391106147	3.646663248
+mammals	unicornis	3.560364312	3.306651164
+plants	Agrostis pourretii	-1.924343946	-1.331068679
+plants	Drosera intermedia	-1.924343946	-2.492464585
+plants	Logfia gallica	-1.924343946	-2.777603985
+plants	Polycarpon tetraphyllum	-1.924343946	-2.688566595
+plants	Spergularia rubra	-1.924343946	-1.669866097
+plants	Tuberaria guttata	-1.924343946	-1.823997635
+plants	Pinguicula vulgaris	-1.924343946	-2.022596851
+plants	Erophila verna	-1.748252687	-2.562411421
+plants	Arabidopsis thaliana	-1.748252687	-1.631847618
+plants	Isotoma hypocrateriformis	-1.748252687	-1.597199935
+plants	Saxifraga granulata	-1.748252687	-1.84331726
+plants	Gnaphalium sylvaticum	-1.62331395	-1.194513865
+plants	Hypericum perforatum	-1.62331395	-0.56664661
+plants	Bellis annua	-1.62331395	-2.757530647
+plants	Cerastium glomeratum	-1.62331395	-1.959915928
+plants	Conyza sumatrensis	-1.62331395	0.024310909
+plants	Antennaria dioica	-1.526403937	-1.596908215
+plants	Campanula rotundifolia	-1.526403937	-1.383645434
+plants	Conyza canadensis	-1.526403937	-0.429865085
+plants	Erica multiflora	-1.526403937	1.09301366
+plants	Lychnis viscaria	-1.447222691	-0.950211494
+plants	Verbascum thaspus	-1.447222691	0.832006653
+plants	Arenaria serpyllifolia	-1.447222691	-1.113857933
+plants	Solidago canadensis	-1.447222691	0.203993016
+plants	Molineriella minuta	-1.380275901	-2.072129508
+plants	Potentilla argentea	-1.380275901	-1.261460654
+plants	Sedum sediforme	-1.380275901	-1.092318255
+plants	Evax pygmaea	-1.322283954	-2.173921674
+plants	Euphorbia exigua	-1.271131432	-2.902369386
+plants	Arabis hirsuta	-1.225373941	-1.185739941
+plants	Ludwigia leptocarpa	-1.225373941	0.030161873
+plants	Hieracium pilosella	-1.183981256	-1.422311947
+plants	Crepis capillaris	-1.183981256	-1.726647995
+plants	Populus tremuloides	-1.146192695	3.90631757
+plants	Cerastium fontanum	-1.146192695	-1.393348251
+plants	Galium parisiense	-1.146192695	-2.369892581
+plants	Plantago coronopus	-1.146192695	-1.578075432
+plants	Cynodon dactylon	-1.146192695	-1.078529971
+plants	Festuca ovina	-1.111430589	-0.313001113
+plants	Achillea millefolium	-1.111430589	-1.121281951
+plants	Veronica officinalis	-1.079245906	-1.078529971
+plants	Linum catharticum	-1.079245906	-2.185739941
+plants	Chamaemelum mixtum	-1.079245906	-1.261666718
+plants	Trifolium campestre	-1.079245906	-1.759222447
+plants	Cyperus rotundus	-1.079245906	0.43750935
+plants	Capsella bursa-pastoris	-1.049282682	0.728073912
+plants	Euphrasia stricta	-1.021253959	-1.40758869
+plants	Chamaemelum fuscatum	-1.021253959	-1.187915187
+plants	Rumex bucephalophorus	-1.021253959	-2.006884226
+plants	Satureja acinos	-0.99492502	-1.316508221
+plants	Thymus serpyllum	-0.99492502	-1.605956344
+plants	Diplotaxis catholica	-0.99492502	-1.228997601
+plants	Gentianella campestris	-0.99492502	-1.469736597
+plants	Calandrinia corrigioloides	-0.970101436	-1.276864784
+plants	Tolpis barbata	-0.970101436	-1.226694891
+plants	Veronica chamaedrys	-0.94662034	-1.542287264
+plants	Reboudia pinnata	-0.924343946	0.085171699
+plants	Calamintha nepeta	-0.924343946	-0.644160697
+plants	Medicago lupulina	-0.903154647	-1.194513865
+plants	Athrixia asteroides	-0.903154647	-0.961899011
+plants	Gutierrezia sarothrae	-0.903154647	-0.56249065
+plants	Poa annua	-0.882951261	-2.099953328
+plants	Trifolium repens	-0.863646105	-1.583679949
+plants	Inula conyza	-0.863646105	-0.426828048
+plants	Briza media	-0.863646105	-1.437551913
+plants	Vaccinium angustifolium	-0.863646105	-0.960430659
+plants	Waitzia paniculata	-0.863646105	-1.985380107
+plants	Spergula arvensis	-0.8451627	-1.287780184
+plants	Poa pratensis	-0.827433933	-1.328407444
+plants	Bouteloua eriopoda	-0.810400593	0.146294337
+plants	Crepis foetida	-0.794010177	-0.911582091
+plants	Leontodon longirostis	-0.794010177	-1.187915187
+plants	Stellaria graminea	-0.794010177	-1.56249065
+plants	Lotus subbiflorus	-0.77821591	-1.687973817
+plants	Trifolium bocconei	-0.77821591	-1.473090239
+plants	Plantago media	-0.77821591	-0.644160697
+plants	Anthoxanthum odoratum	-0.762975944	-0.754376176
+plants	Erucaria hispanica	-0.748252687	1.336965052
+plants	Trifolium glomeratum	-0.748252687	-1.468905411
+plants	Vaccinium vitis-idaea	-0.748252687	-1.282649954
+plants	Chaenactis stevioides	-0.748252687	-0.267926697
+plants	Deschampsia cespitosa	-0.734012248	0.784606936
+plants	Schedonnardus paniculatus	-0.720223963	-0.393348251
+plants	Potentilla erecta	-0.720223963	-0.744830858
+plants	Vulpia myuros	-0.693895024	-1.894810272
+plants	Fragaria vesca	-0.681305897	-1.09938011
+plants	Dactylis glomerata	-0.681305897	0.377978399
+plants	Silene gallica	-0.681305897	-1.287670755
+plants	Bouteloua gracilis	-0.669071441	-0.136521918
+plants	Vulpia geniculata	-0.657172217	-1.701729345
+plants	Lepidium densiflorum	-0.645590345	-1.282649954
+plants	Myosotis ramossisima	-0.645590345	-1.805528699
+plants	Oenothera biennis	-0.645590345	0.342121965
+plants	Bromus madritensis	-0.645590345	-1.255401914
+plants	Trifolium arvense	-0.645590345	-1.422311947
+plants	Veronica persica	-0.645590345	-1.56249065
+plants	Taraxacum vulgare	-0.634309334	-0.787799932
+plants	Bouteloua gracilis	-0.634309334	0.198075425
+plants	Lepidium lasiocarpum	-0.62331395	-0.958927771
+plants	Vaccinium myrtillus	-0.62331395	-0.601408716
+plants	Aster acuminatus	-0.581921265	-0.403569461
+plants	Aster acuminatus	-0.581921265	-1.135483184
+plants	Leucanthemum vulgare	-0.581921265	-1.422311947
+plants	Hypochaeris glabra	-0.553276083	-1.706891602
+plants	Betula maximowicziana	-0.553276083	4.641054489
+plants	Triglochin palustre	-0.553276083	-1.917535086
+plants	Plantago lagopus	-0.544132704	-1.316859144
+plants	Alchemilla glaucescens	-0.535177861	-1.136521918
+plants	Gyrostemon ramulosus	-0.535177861	2.062759459
+plants	Eriastrum diffusum	-0.535177861	-1.699290461
+plants	Filipendula vulgaris	-0.509370598	-0.794804833
+plants	Rumex acetosa	-0.509370598	-0.767438649
+plants	Trifolium repens	-0.492980182	0.282843676
+plants	Prunella vulgaris	-0.440044106	-1.241257268
+plants	Picris hieracioides	-0.412460585	-0.211689038
+plants	Luzula campestris	-0.405830006	-2.282649954
+plants	Setaria viridis	-0.374115593	-1.419395481
+plants	Alopecurus pratensis	-0.374115593	-0.62703137
+plants	Ratibida pinnata	-0.368041445	0.004311692
+plants	Setaria X pycnocoma	-0.368041445	-0.506583654
+plants	Plantago asiatica	-0.362051081	-0.462501361
+plants	Rumex acetosa	-0.356142222	-0.935806312
+plants	Carex caryophyllea	-0.338883216	-1.884709945
+plants	Chenopodium album	-0.333279339	-1.282649954
+plants	Festuca rubra	-0.32774685	-0.391949556
+plants	Trachymene cyanopetala	-0.32774685	-2.462501361
+plants	Eucalyptus grandis	-0.311560089	4.813159186
+plants	Stipa capensis	-0.295955016	0.554306784
+plants	Stipa capensis	-0.295955016	-0.645085467
+plants	Podotheca gnaphalioides	-0.285854689	-0.995139944
+plants	Setaria viridis var. pchystachys	-0.285854689	-1.668084041
+plants	Primula veris	-0.275983935	-0.738581909
+plants	Prunella vulgaris	-0.275983935	-0.878242263
+plants	Daucus carota	-0.261586114	-0.481589424
+plants	Helianthemum nummularium	-0.247650336	-1.271926088
+plants	Viola blanda	-0.243102708	-1.771663498
+plants	Grayia spinosa	-0.243102708	0.931366198
+plants	Vernonia baldwini	-0.225373941	0.907681745
+plants	Vernonia baldwini	-0.225373941	-0.477224618
+plants	Alnus rubra	-0.204184642	3.973264014
+plants	Trollius europaeus	-0.200068076	-0.899622591
+plants	Wurmbea dioica	-0.200068076	-1.071796588
+plants	Centaurea jacea	-0.200068076	-0.583679949
+plants	Pimpinella saxifraga	-0.195990164	-0.911582091
+plants	Aristida purpurea	-0.180050963	-0.393348251
+plants	Machaeranthera tanacetifolia	-0.146192695	-1.282649954
+plants	Erodium cicutarium	-0.139014111	0.040602147
+plants	Erodium cicutarium	-0.139014111	-1.201932262
+plants	Gagea lutea	-0.13546883	-1.297029078
+plants	Vulpia microstachys	-0.131952256	-1.989300101
+plants	Lolium rigidum	-0.118163972	-0.792129106
+plants	Danthonia decumbens	-0.111430589	-0.024971379
+plants	Astragalus nuttalianus	-0.111430589	-2.398260465
+plants	Ipomopsis aggregata	-0.108102646	0.157487655
+plants	Lotus corniculatus	-0.10480001	-0.121281951
+plants	Succisa pratensis	-0.098269143	-0.7843394
+plants	Geum rivale	-0.098269143	-0.770766593
+plants	Ajuga pyramidalis	-0.088653374	-1.504498703
+plants	Ranunculus acris	-0.085494855	-0.729373907
+plants	Adenostoma fasciculatum	-0.049282682	2.850249816
+plants	Geranium rotundifolium	-0.040682511	-1.271926088
+plants	Ranunculus acris	-0.032249343	-1.604714527
+plants	Gaylussacia baccata	-0.021253959	0.205195167
+plants	Trifolium pratense	-0.013186337	-0.184872219
+plants	Tersonia brevipes	-0.007889997	1.293373494
+plants	Trifolium angustifolium	0.002512763	-0.801924575
+plants	Bromus hordeus	0.015175307	-0.91135203
+plants	Scabiosa columbaria	0.025046061	-2.064561353
+plants	Rhinanthus minor	0.046467665	-1.241257268
+plants	Ornithopus compressus	0.05337966	-1.569375103
+plants	Anthyllis cytisoides	0.055659426	2.308414654
+plants	Plantago lanceolata	0.057927287	-0.720357089
+plants	Polygala vulgaris	0.06688213	-1.304926348
+plants	Lolium multiflorum	0.071291249	-1.085369395
+plants	Arrhenatherum pratense	0.092689394	0.101613832
+plants	Metasequoia glyptostroboides	0.10096192	3.040304924
+plants	Picea sitchensis	0.105039832	3.936107719
+plants	Trifolium cherleri	0.10907981	-1.459178223
+plants	Setaria pallide-fusca	0.117048739	-1.238768468
+plants	Alliaria petiolata	0.126808577	-0.429865085
+plants	Brachypodium phoenicoides	0.143841916	-0.215393064
+plants	Scirpus maritimus	0.151203016	-0.824229197
+plants	Bromus madritensis	0.1548373	-2.039611905
+plants	Dipsacus fullonum	0.156643101	0.34317676
+plants	Knautia arvensis	0.167323012	-0.30037872
+plants	Alliaria petiolata	0.170825406	0.299981486
+plants	Setaria faberii	0.172566067	-0.423058503
+plants	Stipa elegantissima	0.181166239	0.129304996
+plants	Eucalyptus diversicolor	0.182866024	4.820531569
+plants	Echium vulgare	0.189599407	1.167528254
+plants	Erythronium japonicum	0.19292735	-0.939622616
+plants	Avena barbata	0.196229985	-0.423015972
+plants	Sphaeralcea coccinea	0.205989823	-1.039611905
+plants	Trillium nivale	0.205989823	-1.223619273
+plants	Echium plantagineum	0.212376621	-0.87149163
+plants	Anthriscus sylvestris	0.226412494	-0.245223456
+plants	Rumex acetosella	0.230992092	-1.588044755
+plants	Brachypodium distachyon	0.238519048	-0.128073837
+plants	Trillium kamtschaticum	0.241493679	-0.297158096
+plants	Ambrosia dumosa	0.250297247	1.096606928
+plants	Trillium vaseyi	0.251747313	0.038100989
+plants	Chamaecyparis obtusa	0.256068687	3.583836737
+plants	Bromus erectus	0.264584538	-0.302646582
+plants	Ranunculus bulbosus	0.265987752	-1.261460654
+plants	Trillium catesbaei	0.265987752	-0.511487822
+plants	Centaurea aspera	0.274313141	-0.276183911
+plants	Anthyllis vulneraria	0.294454052	-0.805528699
+plants	Trillium apetalon	0.308652165	-0.271236699
+plants	Trillium tschonoskii	0.312445154	-0.308178847
+plants	Stipa tenacissima	0.316205303	2.407191456
+plants	Trillium luteum	0.328509085	-0.178446803
+plants	Agrimonia eupatoria	0.33213326	-0.251241489
+plants	Trillium discolor	0.333334629	-0.475729627
+plants	Acacia pulchella	0.342827783	2.118600247
+plants	Medicago polymorpha	0.358957283	-1.088481301
+plants	Larix leptolepis	0.366802816	3.697948507
+plants	Ambrosia artemisiifolia	0.378852112	-0.777499975
+plants	Ambrosia artemisiifolia	0.378852112	-1.747977232
+plants	Trillium cuneatum	0.378852112	-0.103932045
+plants	Trillium undulatum	0.392674155	-0.406868237
+plants	Trillium flexipes	0.397875349	-0.11096272
+plants	Eucalyptus regnans	0.412115788	5.090097929
+plants	Trillium smallii	0.424933582	-0.031137597
+plants	Trillium recurvatum	0.448568057	-0.513111355
+plants	Trillium lancifloium	0.463934918	-0.738225492
+plants	Anemone nemorosa	0.473596063	-1.770766593
+plants	Trillium erectum	0.477056595	-0.097637812
+plants	Geranium sylvaticum	0.482196235	-0.980535577
+plants	Atriplex confertifolia	0.482196235	0.588007285
+plants	Hippocrepis unisiliquosa	0.484743424	0.654366154
+plants	Erodium ciconium	0.502167316	-0.267709604
+plants	Melampyrum roseum var japonicum	0.507019818	-0.275441091
+plants	Agave lecheguilla	0.514988748	2.240953384
+plants	Trifolium subterraneum	0.528209117	-0.701526308
+plants	Acacia pulchella	0.534293903	1.874740807
+plants	Abies balsamea	0.559955894	3.216527706
+plants	Crocus heuffelianus	0.560667269	-0.775694174
+plants	Allium ursinum	0.577399784	-0.693616712
+plants	Trillium grandiflorum	0.582161087	-0.289315093
+plants	Avena barbata	0.583511926	-0.479876228
+plants	Ambrosia trifida	0.602641123	-0.86044137
+plants	Trillium decumbens	0.609046762	-0.531382651
+plants	Trillium viridescens	0.612214497	-0.461056121
+plants	Picea abies	0.622815176	4.099031052
+plants	Cakile edentula	0.625884407	-0.463257314
+plants	Geranium maculatum	0.631958555	-0.987356757
+plants	Galium aparine	0.634964065	-2.126012623
+plants	Rubus chamaemorus	0.643857778	-1.216324028
+plants	Trillium stamineum	0.644444267	-0.576010636
+plants	Arcticum minus	0.648527656	1.577764141
+plants	Nothofagus truncata	0.659987279	4.812868906
+plants	Cassia fasciculata	0.661116784	-0.884709945
+plants	Trillium sessile	0.666720661	-0.516376742
+plants	Larrea tridentata	0.671152276	1.701752329
+plants	Acacia alata	0.683111077	1.763107537
+plants	Trillium maculatum	0.686848115	-0.441312062
+plants	Rubus chamaemorus	0.688969216	-0.924773495
+plants	Sanguisorba minor	0.692131568	-0.965631852
+plants	Trillium decipiens	0.72205978	-0.343025521
+plants	Abies veitchii	0.74357574	2.640593963
+plants	Abies sachalinensis	0.745437669	3.572629014
+plants	Pinus densiflora	0.753718959	3.265627762
+plants	Trillium reliquum	0.777655529	-0.49557782
+plants	Lathyrus pratensis	0.779806571	-0.697189224
+plants	Trillium underwoodii	0.786619173	-0.546925663
+plants	Trillium ludovicianum	0.806034523	-0.330028207
+plants	Impatiens capnesis	0.812052557	0.950346157
+plants	Trillium foetidissimum	0.815623751	-0.670109672
+plants	Acacia mollissima	0.819949037	3.51630934
+plants	Bossiaea aquifolium	0.823844081	1.8125929
+plants	Acacia dealbata	0.853807305	3.446011134
+plants	Acacia extensa	0.860985889	1.944162216
+plants	Convolvulus arvensis	0.870840644	-1.251241489
+plants	Atriplex canescens	0.873615698	3.064175206
+plants	Vicia cracca	0.929658287	-0.697189224
+plants	Lathyrus linifolius	0.950717318	-1.393348251
+plants	Orlaya grandiflora	0.995257078	-1.085369395
+plants	Pinus rigida	0.99993534	4.04725617
+plants	Pseudotsuga menziesii	1.046467665	4.224756106
+plants	Carthamus lanatus	1.046931903	0.637869184
+plants	Acer spicatum	1.079977428	2.814260059
+plants	Calliandra eriophylla	1.092689394	0.408210355
+plants	Aegylops geniculata	1.128734498	-0.682735526
+plants	Silybum marianum	1.134461541	-0.015478225
+plants	Cynoglossum officinale	1.14198198	1.541215356
+plants	Ephedra nevadensis	1.196229985	1.136289145
+plants	Pinus radiata	1.251747313	3.992941919
+plants	Rubia peregrina	1.25290389	-0.897938211
+plants	Acacia greggii	1.272936612	2.27209353
+plants	Acacia greggii	1.272936612	1.735800879
+plants	Pinus elliottii	1.279776037	3.529503483
+plants	Agrimonia eupatoria	1.34481862	-0.243235834
+plants	Arum italicum	1.365690666	0.747169036
+plants	Arum italicum	1.365690666	0.521340559
+plants	Abies firma	1.369018609	3.651130353
+plants	Dichrostachys cinerea	1.380254281	4.183475917
+plants	Ilex aquifolium	1.38846788	3.422131702
+plants	Aristolochia rotunda	1.445798901	-0.434460837
+plants	Abies amabilis	1.469231258	4.850657118
+plants	Pinus pinaster	1.477056595	4.192106911
+plants	Acacia tortilis	1.53850309	4.279642911
+plants	Acacia harpophylla	1.564911223	3.883604267
+plants	Abies alba	1.596139587	3.645101427
+plants	Prosopis glandulosa	1.617671869	4.996389274
+plants	Xanthium strumarium	1.69055327	0.815292486
+plants	Retama sphaerocarpa	1.70912451	2.752979874
+plants	Acacia nilotica	1.899456208	4.380107878
+plants	Fagus crenata	1.919231397	3.693055367
+plants	Cercidium microphyllum	1.926057202	2.460171372
+plants	Fagus sylvatica	2.102536452	3.727512941
+plants	Chamaedorea ernesti-augusti	2.22178409	0.699465255
+plants	Sabal etonia	2.324083007	2.709903564
+plants	Serenoa repens	2.397461538	3.297984645
+plants	Tectona grandis	2.515146645	4.620280129
+plants	Quercus ilicifolia	2.586536039	1.263584153
+plants	Shorea robusta	2.777767646	3.879435005
+plants	Camellia japonica	2.804111295	3.748053297
+plants	Camellia sinensis	2.840888606	2.724261276
+plants	Elaeis guineensis	3.029816523	4.891961596
+plants	Quercus coccinea	3.060496037	3.963479172
+plants	Castanea sativa	3.086564191	2.475667052
+plants	Quercus alba	3.251286717	3.678771141
