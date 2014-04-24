@@ -20,11 +20,7 @@ Warton, DI, IJ Wright, DS Falster, and M Westoby (2006) Bivariate line-fitting m
 
 ## Download and installation
 
-### Download pre-compiled versions:
-
-- [users guide](https://github.com/dfalster/smatr/blob/master/web/SMATR_users_guide.pdf
-- [windows](https://github.com/dfalster/smatr/blob/master/web/smatr.exe)
-- [mac intel](https://github.com/dfalster/smatr/blob/master/web/IntelMac/smatr.zip)
+The users guide can be downloaded [here](https://github.com/dfalster/smatr/blob/master/doc/SMATR_users_guide.pdf
 
 ### Compiling SMATR
 
