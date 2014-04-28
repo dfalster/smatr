@@ -28,11 +28,13 @@ To date smatr has been [used in over 250 publications](http://scholar.google.com
 
 ## Download and installation
 
-The users guide can be downloaded [here](https://github.com/dfalster/smatr/blob/master/doc/SMATR_users_guide.pdf).
+The users guide can be downloaded [here](https://github.com/dfalster/smatr/releases/download/v2.0/SMATR_users_guide.pdf).
 
 ### Pre-compiled binaries
 
-You can download pre-compiled version of smatr for mac and windows here. Note, the windows binary was compiled on windows XP and I do not know how well it will perform on newer operating systems.
+You can download pre-compiled version of smatr for mac and windows [here](https://github.com/dfalster/smatr/releases/tag/v2.0).
+
+Note, the windows binary was compiled on windows XP and I do not know how well it will perform on newer operating systems.
 
 ### Compiling SMATR
 
@@ -49,11 +51,20 @@ if you have any troubles.
 
 ## Support
 
-There is limited support available for SMATR. Users are referred first to Warton et al 2006 for background on the techniques, and to the user's guide for information on how to use the program. If you cannot find the answer to your question here, consult the links below. If you cannot find an answer here, or think you have found a bug, please post an issue [here]().
+SMATR is no longer being developed or supported. I suggest you checkout [smatr  package for R](http://cran.r-project.org/web/packages/smatr/index.html) which is still being developed and is much more functional than this program, e.g. also includes plotting. For more information see:
 
-## Version history
+Warton, D.I., Duursma, R.A., Falster, D.S. & Taskinen, S. (2012) smatr 3– an R package for estimation and inference about allometric lines. Methods in Ecology and Evolution, 3, 257–259. doi: [10.1111/j.2041-210X.2011.00153.x](http://doi.org/10.1111/j.2041-210X.2011.00153.x).
 
-### Version 2.0 released Nov 13 2006
+For those who insist on using the standalone application, you are referred to:
+
+- Warton et al 2006 for background on the techniques,
+- the user's guide for information on how to use the program.
+
+If you cannot find the answer to your question here, consult the links below. If you cannot find an answer here, or think you have found a bug, please post an issue [here](https://github.com/dfalster/smatr/issues).
+
+### Version history
+
+**Version 2.0 released Nov 13 2006**
 
 Changes compared to version 1.0
 
@@ -69,8 +80,7 @@ Differences to R version:
 * Re-sampling is used for common slope test, where the R version draws from chi-squared distribution
 * The standalone program removes groups less than a minimum size. In the R version the minimum size is fixed at n=2
 
-
-## Trouble loading data or program crashes
+### Trouble loading data or program crashes
 
 1. **The data won’t load after I press L in menu 1**. The problem is the program cannot locate the data file (input.txt) and so is not progressing to the next menu. Check that:
 	1. The program file (smatr.exe) is in the same folder as the data file
