@@ -22,7 +22,7 @@ Warton, DI, IJ Wright, DS Falster, and M Westoby (2006) Bivariate line-fitting m
 
 When using this package, please cite either:
 
-Falster, D.S., Warton, D.I. & Wright, I.J. (2003) (S)MATR: Standardised major axis tests and routines. http:// www.bio.mq.edu.au/ecology/SMATR/.
+Falster, D.S., Warton, D.I. & Wright, I.J. (2003) SMATR: Standardised major axis tests and routines, ver 2.0. http://www.bio.mq.edu.au/ecology/SMATR/.
 
 To date smatr has been [used in over 250 publications](http://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=5039792263257287713,9182054857820256278).
 
